@@ -1,0 +1,35 @@
+##############################################################################################
+# Gracias por tomarte el tiempo de leer, hare unas aclaraciones:
+#         Hay que agregar Pillow para que corran las Imágenes.
+#                     El import os trae ya python, es para que abra las imágenes desde la ubicación del archivo.
+# 
+# Utilice la extensión de: Better Comments para que se diferencien con colores, cada comentario.
+# 
+# Estos apuntes se realizaron con unas explicaciones de YouTube y con paginas que explicaban para que sirve o que hace.
+#      
+##############################################################################################
+# Los links utilizados son: (Sobre tkinter YouTube)
+#       https://www.youtube.com/watch?v=iPXiZALnZFg 
+#       https://www.youtube.com/watch?v=hky6aQw65lw
+#       https://www.youtube.com/watch?v=jqRHhWjKDD8
+#       https://www.youtube.com/watch?v=8RxgHIWLGFk&list=PLM-p96nOrGcb0iAvigxAS8-xsuFE_VZeT
+##############################################################################################
+#       (Sobre tkinter Documentos)
+#       https://docs.python.org/es/3/library/tkinter.html#setting-options
+#       https://www.delftstack.com/es/howto/python-tkinter/how-to-set-font-of-tkinter-text-widget/
+#       https://python-para-impacientes.blogspot.com/2016/02/variables-de-control-en-tkinter.html
+#       https://python-course.eu/tkinter/variable-classes-in-tkinter.php
+#       https://docs.hektorprofe.net/python/interfaces-graficas-con-tkinter/widget-label-etiqueta-de-texto/ 
+##############################################################################################
+# Manejo de imágenes (import os):
+#       https://youtu.be/EngFoDG9wv8
+##############################################################################################
+# Instalar extension Comentarios:
+#       https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments
+##############################################################################################
+#  Instalar el Pillow
+#       https://recursospython.com/guias-y-manuales/instalar-pil-pillow-efectos/    
+#       https://recursospython.com/guias-y-manuales/instalacion-y-utilizacion-de-pip-en-windows-linux-y-os-x/
+#       (Si te genera error, hay muchos videos, pero este me sirvió!)
+#       https://www.youtube.com/watch?v=i1YuWtsRKsA       
+##############################################################################################
